@@ -1,0 +1,15 @@
+{
+  "empty1": {},
+  "empty2": [],
+  "null": null,
+  "mixedNull": ["string", 123, true, null, { "nested": "obj" }],
+  "nestedArray": [[1, 2], ["a", "b"], [{"x": 1}, {"y": 2}]],
+  "complexList": [
+    { "a": 1, "b": [2, 3] },
+    { "c": { "d": "deep" } },
+    "simpleString"
+  ],
+  "escapeTest": "Line1\nLine2\tTabbed\\Backslash\"Quote\"",
+  "dup": "first",
+  "dup": "second"
+}

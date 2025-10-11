@@ -1,0 +1,8 @@
+{
+  "bool-1": true,
+  "bool-2": false,
+  "integer-1": 1,
+  "integer-2": 1.00,
+  "integer-3": -1.000,
+  "float": 1.234567890
+}
